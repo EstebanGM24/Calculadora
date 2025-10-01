@@ -1,0 +1,1 @@
+Si la calculadora no abre por enlace directo ,usar algun asistente como visual studio code
